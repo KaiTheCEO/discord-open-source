@@ -246,6 +246,13 @@
       "githubUrl": "https://fedoraproject.org"
     },
     {
+      "logo": "FreeBSD.svg",
+      "title": "FreeBSD",
+      "quote": "FreeBSD is an open-source operating system built on top of the historically powerful BSD and Unix Systems. The Power to Serve.",
+      "inviteCode": "n2wshsy",
+      "githubUrl": "https://github.com/freebsd/freebsd-src"
+    },
+    {
       "logo": "translucenttb.svg",
       "title": "TranslucentTB",
       "quote": "We leverage Discord to coordinate development efforts, as well as providing quick support and friendly chat to our users.",
